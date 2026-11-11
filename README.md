@@ -1,4 +1,4 @@
-# DECENTRALISED SOLAR-BASED SMART GRID WITH OPTIMISED LAOD MANAGEMENT
+# DECENTRALISED SOLAR-BASED SMART GRID WITH OPTIMISED LOAD MANAGEMENT
 
 ## FYDP Poster (.png)
 Poster designed for a quick overview of what we have proposed for the rural electrification
